@@ -98,8 +98,8 @@
     
 <br>
 <p align="center">
-![TianBM's github stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=TianBM&layout=compact&theme=radical")
-![TianBM's github stats]("https://github-readme-stats.vercel.app/api?username=TianBM&&show_icons=true&theme=radical&count_private=true&include_all_commits=true")
+![TianBM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TianBM&layout=compact&theme=radical)
+![TianBM's github stats](https://github-readme-stats.vercel.app/api?username=TianBM&&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 </p>
 
 <br> <br>
