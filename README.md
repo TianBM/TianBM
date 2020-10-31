@@ -6,6 +6,8 @@
 
 #### hello everyone, I'm a full-stack software engineer,got engineer certifications about cloud computing, frontend development, backend development. I hope we can study from each other.
 
+I'm looking for some fun, so if you have some interesting idea or project, please let me know.
+
 ### My skills :man_technologist:
 
 - **Competitive Coding**
@@ -32,10 +34,10 @@
         	<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
         </td>
         <td>
-        	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+        	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"> 
         </td>
         <td>
-        	<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+        	<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"> 
         </td>
     </tr>
     <tr>
@@ -53,13 +55,19 @@
     	<td>
         	<img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg'/>
         </td>
+        <td>
+        	<img src='https://www.vectorlogo.zone/logos/java/java-ar21.svg'/>
+        </td>
+        <td>
+        	<img src='https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg'/>
+        </td>
     </tr>
 </table>
 
 
 - **Data Science**
-
   - Data Analysis
+  - Spider
 
 <table>
     <tr>
@@ -71,7 +79,6 @@
 
 
 - **MiniPrograme**
-
   - Taro
 
 <table>
@@ -130,10 +137,10 @@
 <table>
     <tr>
     	<td>
-        	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TianBM&layout=compact&theme=radical' />
+        	<img height='300px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TianBM&layout=compact&theme=radical' />
         </td>
         <td>
-        	<img src='https://github-readme-stats.vercel.app/api?username=TianBM&&show_icons=true&theme=radical&count_private=true&include_all_commits=true' />
+        	<img height='300px' src='https://github-readme-stats.vercel.app/api?username=TianBM&&show_icons=true&theme=radical&count_private=true&include_all_commits=true' />
         </td>
     </tr>
 </table>
