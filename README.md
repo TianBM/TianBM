@@ -1,127 +1,141 @@
 ### Hello World, I'm Tian :purple_heart:
+
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 -----
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
-### My skills :woman_technologist:
+#### hello everyone, I'm a full-stack software engineer,got engineer certifications about cloud computing, frontend development, backend development. I hope we can study from each other.
+
+### My skills :man_technologist:
+
 - **Competitive Coding**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+  <table>
+      <tr>    
+          <td>
+              <img src='https://www.vectorlogo.zone/logos/java/java-ar21.svg' />
+          </td>
+          <td>
+          	<img src='https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg' />
+          </td>
+          <td>
+              <img src='https://www.vectorlogo.zone/logos/python/python-ar21.svg' />
+          </td>
+      </tr>
+  </table>
 
 - **Web Development**
+
 <table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
-
-</tr>
-
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<tr>
- 
- </tr>
-</tbody>
+ 	<tr>
+    	<td>
+        	<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
+        </td>
+        <td>
+        	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+        </td>
+        <td>
+        	<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+        </td>
+    </tr>
+    <tr>
+    	<td>
+        	<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+        </td>
+        <td>
+        	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+        </td>
+        <td>
+        	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+        </td>
+    </tr>
+    <tr>
+    	<td>
+        	<img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg'/>
+        </td>
+    </tr>
 </table>
+
 
 - **Data Science**
-  - Data Visualization
-  - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
-</tr>
-</tbody>
+  - Data Analysis
+
+<table>
+    <tr>
+    	<td>
+        	<img src='https://www.vectorlogo.zone/logos/python/python-ar21.svg' />
+        </td>
+    </tr>
 </table>
+
+
+- **MiniPrograme**
+
+  - Taro
+
+<table>
+    <tr>
+    	<td>
+        	<img src='https://static.oschina.net/uploads/logo/taro_OG96p.png' />
+        </td>
+    </tr>
+</table>
+
+
+- **Server**
+
+  - Shell
+  - DevOps
+
+<table>
+    <tr>
+    	<td>
+        	<img src='https://www.vectorlogo.zone/logos/linux/linux-ar21.svg' />
+        </td>
+        <td>
+        	<img src='https://www.vectorlogo.zone/logos/docker/docker-ar21.svg' />
+        </td>
+        <td>
+        	<img src='https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg' />
+        </td>
+    </tr>
+</table>
+
+
+
 
 ### I'm currently learning :open_book:
+
 - **Competitive Coding**
-    - Dynamic Programming
-    
+
+  - Function Oriented Programming
+  - Cloud Computing
+
 - **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+
+  <table>
+      <tr>
+      	<td>
+          	<img src='https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg' />
+          </td>
+      </tr>
+  </table>
 
  - **Data Science**
+
    - Machine Learning
    - Artificial Intelligence
-    
-<br>
-<p align="center">
+
 ![TianBM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TianBM&layout=compact&theme=radical)
 ![TianBM's github stats](https://github-readme-stats.vercel.app/api?username=TianBM&&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-</p>
 
-<br> <br>
- <a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shreyachatterjee05/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Shreya549">
+
+<a href="https://github.com/TianBM">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/shreya.chatterjee.31105674">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/shreyachatterje2">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<br><br>
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+
+![VisitorCount](https://profile-counter.glitch.me/TianBM/count.svg)
+
